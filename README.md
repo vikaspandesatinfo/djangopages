@@ -1,0 +1,2 @@
+# djangopages
+essentialcpages for cms
